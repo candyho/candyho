@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 📱 I am a product manager from the :octocat: Mobile team 
-#### ✅ Previously worked for Wunderlist / Microsoft To Do - task management apps supporting all platforms (mobile & desktop).
+#### ✅ Previously worked for Wunderlist / Microsoft To Do - task management apps supporting mobile & desktop.
 #### 🇩🇪 Based in Berlin, Germany.
 #### ☕️ Always up for coffee/tea if you're around!
 #### 📫 Don't hesitate to [send feedback](https://github.com/github/feedback/discussions?discussions_q=category%3A%22Mobile+Feedback%22) that could make our apps better.
