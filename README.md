@@ -4,7 +4,7 @@
 ##### ✅ Previously worked for Wunderlist / Microsoft To Do - task management apps supporting all platforms (mobile & desktop).
 ##### 🇩🇪 Based in Berlin, Germany.
 ##### ☕️ Always up for coffee/tea if you're around!
-##### 📫 Reach me at candyho@github.com - - don't hesitant to send me feedback for our mobile apps.
+##### 📫 Reach me at candyho@github.com - don't hesitant to send me feedback that could make our apps better.
 <!--
 **candyho/candyho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
