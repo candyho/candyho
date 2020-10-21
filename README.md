@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### 📱 I am a product manager from the :octocat: Mobile team 
-#### ✅ Previously worked for Wunderlist & Microsoft To Do - a cross-platform task management app.
+#### ✅ Previously worked for Wunderlist & Microsoft To Do (cross-platform task management apps)
 #### 🇩🇪 Based in Berlin, Germany.
-#### ☕️ Always up for coffee/tea if you're around.
-#### 📫 [Send feedback](https://github.com/github/feedback/discussions?discussions_q=category%3A%22Mobile+Feedback%22) to make our apps better.
+#### ☕️ Always up for coffee/tea if you're around
+#### 📫 [Send feedback](https://github.com/github/feedback/discussions?discussions_q=category%3A%22Mobile+Feedback%22) to make our apps better
 <!--
 **candyho/candyho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
