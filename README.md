@@ -1,20 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+
+## About Me
 
 - 📱 I am a product manager from the :octocat: Mobile team 
-- 🇩🇪 Base in Berlin
+- 🇩🇪 Based in Berlin
 - ☕️ Always up for coffee/tea if you're around
 - 📫 [Send feedback](https://github.com/github/feedback/discussions?discussions_q=category%3A%22Mobile+Feedback%22) to make our apps better
-<!--
-**candyho/candyho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on improving GitHub's mobile experience and making our apps more accessible and user-friendly.
+
+🌱 I'm always learning about product management, mobile development trends, and user experience design.
+
+## Let's Connect
+
+💬 Feel free to reach out if you want to discuss:
+- Product management strategies
+- Mobile app development
+- User experience design
+- GitHub features and feedback
+
+📍 If you're in Berlin, let's grab a coffee!
