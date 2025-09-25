@@ -4,7 +4,7 @@ Welcome to my personal repository! This README provides additional information a
 
 ## About This Repository
 
-This repository serves as both my GitHub profile and a collection of my work and projects.
+This is my GitHub profile repository (candyho/candyho) which showcases my work and provides information about my projects hosted in other repositories.
 
 ## Current Projects
 
@@ -24,10 +24,10 @@ Feel free to explore the repositories and projects linked here. If you have any 
 
 ## Contributing
 
-If you're interested in contributing to any of my projects, please feel free to:
-1. Check out the specific project repositories
-2. Open issues for bugs or feature requests
-3. Submit pull requests with improvements
+If you're interested in collaborating or contributing to projects, please feel free to:
+1. Explore my other repositories for specific projects
+2. Open issues for bugs or feature requests in the relevant repositories
+3. Submit pull requests with improvements where appropriate
 
 ---
 
