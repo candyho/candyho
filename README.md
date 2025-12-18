@@ -18,3 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### 📝 A Poem
+
+In the world of code and mobile dreams,  
+Where Berlin's coffee fuels our schemes,  
+A product manager charts the way,  
+Making GitHub Mobile better each day.
+
+With feedback flowing, ideas bright,  
+We build together through day and night,  
+So grab a coffee, let's collaborate,  
+And make our apps truly great!
